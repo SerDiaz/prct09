@@ -1,7 +1,7 @@
-require "./prct09/matriz.rb"
+require "./matriz.rb"
 
 module Prct09
-    class Matriz_densa < Matriz_densa
+    class Matriz_densa < Matriz
       def initialize(n, m)
 	super
 	
