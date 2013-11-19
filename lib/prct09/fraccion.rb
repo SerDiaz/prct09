@@ -1,6 +1,5 @@
-
-
 module Prct09 
+  
   class Fraccion
     # Módulos usados
     include Comparable

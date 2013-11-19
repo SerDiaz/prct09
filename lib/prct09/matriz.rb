@@ -1,4 +1,4 @@
-require './fraccion.rb'
+require "./lib/prct09/fraccion.rb"
 
 module Prct09
   class Matriz
